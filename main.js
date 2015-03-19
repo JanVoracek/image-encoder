@@ -20,9 +20,9 @@ function encodeAll(urls) {
 }
 
 var urls = [
-    'https://tinypng.com/web/output/9n1q5u7k9edeq4o4.png/beaver_king.png',
-    'https://tinypng.com/web/output/9n1q5u7k9edeq4o4.png/beaver_king.png',
-    'https://tinypng.com/web/output/9n1q5u7k9edeq4o4.png/beaver_king.png'
+    'https://raw.githubusercontent.com/JanVoracek/image-encoder/master/beaver_king.png',
+    'https://raw.githubusercontent.com/JanVoracek/image-encoder/master/beaver_king.png',
+    'https://raw.githubusercontent.com/JanVoracek/image-encoder/master/beaver_king.png'
 ];
 
 encodeAll(urls).then(function (images) {
